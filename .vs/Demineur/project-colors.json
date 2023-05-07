@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c40312e-0348-4c56-a893-74fd6c0e27aa": {
+      "ProjectGuid": "1c40312e-0348-4c56-a893-74fd6c0e27aa",
+      "DisplayName": "Demineur",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
